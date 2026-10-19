@@ -8,7 +8,7 @@
 - 프로젝트 명 : RoomLog: LiDAR 기반 디지털 트윈을 활용한 주거 하자 기록 및 분쟁 대응 시스템
 - 프로젝트 정의 : iPhone LiDAR로 주거 공간을 3D로 기록하고, 방 안의 하자를 AI가 자동으로 탐지해 기록·비교·수리까지 한 앱에서 관리하는 iOS 하자 관리 서비스
 
-  <img width="400" height="301" alt="image" src="images/roomlog-overview.png" /></br>
+  <img width="800" alt="image" src="images/roomlog-overview.png" /></br>
 
 **1-2. 개발 배경 및 필요성**
 - 공동주택 하자심사·분쟁조정 신청은 2018년 3,181건에서 2021년 7,686건으로 급증한 뒤 매년 3,000건 이상을 유지하고 있으며, 임대차 경험과 증거 확보 수단이 부족한 청년 1인 가구는 분쟁 상황에서 가장 취약한 계층입니다. 현재 널리 쓰이는 2D 사진은 촬영 각도·거리·조명에 따라 왜곡이 커 법적 증거로 인정받기 어렵고, 하자 종류와 면적에 따른 평균 수리 비용이 공개되어 있지 않아 임차인이 청구액의 적정성을 검증할 방법도 없습니다. 이에 조명·촬영 각도와 무관하게 동일한 물리적 수치를 산출하는 LiDAR 기반 객관적 3D 기록과 입주·퇴거 자동 비교, 공공데이터 기반 수리비 산정을 통합한 서비스가 필요합니다.
@@ -54,11 +54,11 @@
 ---
 ## **💡3. 시스템 구성도**
 - 서비스 구성도
-<img width="500" height="281" alt="image" src="images/service-architecture.png" />
+<img width="1000" alt="image" src="images/service-architecture.png" />
 
 
 - 엔티티 관계도
-<img width="500" height="259" alt="image" src="images/erd.png" />
+<img width="1000" alt="image" src="images/erd.png" />
 
 
 ---
