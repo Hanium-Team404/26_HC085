@@ -47,7 +47,7 @@
 | <img width="80" height="100" src="https://github.com/user-attachments/assets/ab73bb1c-c1d4-464d-8ad3-635b45d5a8ae" > | <img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/c7f66b7c-ab84-41fa-8fba-b49dba28b677" > | <img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/c33252c7-3bf6-43cf-beaa-a9e2d9bd090b" > | <img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/0d5909f0-fc73-4ab9-be09-4d48e3e71083" > | <img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/c33252c7-3bf6-43cf-beaa-a9e2d9bd090b" > | <img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/c7f66b7c-ab84-41fa-8fba-b49dba28b677" > |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **멘티1** | **멘티2** | **멘티3** | **멘티4** | **멘티5** | **멘토** |
-| • iOS 앱 개발 <br> • LiDAR 스캔 파이프라인 | • iOS 앱 개발 <br> • 3D 뷰어·하자 관리 | • 백엔드 개발 <br> • 인프라 구축 | • AI 분석 서버 개발 <br> • 3D 복원·하자 탐지 | • 앱 UI/UX 디자인 <br> • 디자인 시스템 구축 | • 프로젝트 멘토 <br> • 기술 자문 |
+| • iOS 앱 개발 <br> • LiDAR 스캔 <br>파이프라인 | • iOS 앱 개발 <br> • 3D 뷰어·하자 관리 | • 백엔드 개발 <br> • 인프라 구축 | • AI 분석 서버 개발 <br> • 3D 복원·하자 탐지 | • 앱 UI/UX 디자인 <br> • 디자인 시스템 구축 | • 프로젝트 멘토 <br> • 기술 자문 |
 
 
 
